@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&background=FFFECE41&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I'm+Kevin+Henderson;I+enjoy+music+and+programming.;I+create+things+things+out+of+curiosity.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kevin+Henderson;I+enjoy+music+and+programming.;I+create+things+out+of+curiosity.;I+also+love+anything+Star+Wars!)](https://git.io/typing-svg)
 
 <!--
 **khenderson20/khenderson20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
