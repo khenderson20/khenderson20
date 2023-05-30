@@ -3,7 +3,7 @@
 
 
 ## Hi there! I'm Kevin 👋
-I am a Front-end and Back-end developer who enjoys music, programming, and anything Star Wars. I create things out of curiosity and love to explore new technologies and frameworks.
+I'm mainly a Front-End developer who enjoys music, programming, and anything Star Wars. I create things out of curiosity and love to explore new technologies and frameworks.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kevin+Henderson;I+enjoy+music+and+programming.;I+create+things+out+of+curiosity.;I+also+love+anything+Star+Wars!)](https://git.io/typing-svg)
 | 🛠️ Front-End  | 🧮 Back-End | 📦 Package Managers | 💻 Operating Systems & Cloud Software | 🎨 Design Software |
