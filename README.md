@@ -5,10 +5,9 @@ I'm mainly a Front-End developer who enjoys music, programming, and anything Sta
 
 ## 👨‍💻 Currently Working On:
 - 🌐 React.JS - Building dynamic front-ends using React and TypeScript.
-- 🐍 Python - Learning my way around using FastAPI to build APIs.
-- 📱 Android - Crafting mobile applications in Applications Programming Class in College
+- 🐍 Python - Learning my way around using pyo library for Digital Signal Processing
 - ☁️ Linode - Exploring cloud hosting solutions for personal projects.
-- 🖥️ Computer Organization - Engaging in academic courses to deepen understanding of systems level programming and hardware.
+- 🖥️ Computer Architecture - Engaging in personal work to deepen understanding of systems level programming and hardware.
 - 🚀 Always learning something new! 🚀
 
 ## Table of Technologies I have used personally and professionally 
