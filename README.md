@@ -1,4 +1,11 @@
 ## Hi there! I'm Kevin 👋
+
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lsaGRhZ3JyYWhoeDA3ajRxYW1mbzN6cHJqcGh2YXh0OGs0ZG44byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zLs0Hi96kWSPu9YoJ7/giphy.gif" width="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejdmeG9mMXdnMXVtbWxqemFhODlkOHdtYjA1eDZuNG1udG1lbzVqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mCsgrG3wY49OtncVFr/giphy.gif" width="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR6ZmJxeWk2YnFzODl4dDR6bWhqMGdkdWpkbnA0ZzB0NGdtZmkwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/84SFZf1BKgzeny1WxQ/giphy.gif" width="200"/>
+</div>
+
 I'm mainly a Front-End developer who enjoys music, programming, and anything Star Wars. I create things out of curiosity and love to explore new technologies and frameworks.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kevin+Henderson;I+enjoy+music+and+programming.;I+create+things+out+of+curiosity.;I+also+love+anything+Star+Wars!)](https://git.io/typing-svg)
