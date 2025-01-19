@@ -1,5 +1,3 @@
-
-
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lsaGRhZ3JyYWhoeDA3ajRxYW1mbzN6cHJqcGh2YXh0OGs0ZG44byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zLs0Hi96kWSPu9YoJ7/giphy.gif" width="200"/>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejdmeG9mMXdnMXVtbWxqemFhODlkOHdtYjA1eDZuNG1udG1lbzVqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mCsgrG3wY49OtncVFr/giphy.gif" width="200"/>
@@ -16,57 +14,82 @@
 <h2 align="left">
   About me!
 </h2>
-I'm mainly a Front-End developer who enjoys music, programming, and anything Star Wars. I create things out of curiosity and love to explore new technologies and frameworks.
 
+I’m a front-end developer who thrives on crafting engaging, user-focused experiences 🚀. My curiosity fuels constant experimentation with new frameworks and technologies, expanding my toolkit one project at a time. When I’m not immersed in code, you can find me enjoying music 🎶 or anything Star Wars ⭐️—two passions that energize my creativity and problem-solving approach. I’m currently pursuing my undergraduate degree and plan to graduate by Fall 2025 🎓.
 
+## 👨‍💻 Currently Working On
+- **React & TypeScript** ⚛️: Creating dynamic front-end applications with an emphasis on scalable, maintainable code and intuitive user experiences.
+- **Python & LLMs** 🤖: Building APIs and delving into large language models for natural language processing and automation.
+- **Google Cloud Platform** ☁️: Experimenting with GCP services and the gcloud CLI to refine cloud deployments and optimize workflow efficiency.
+- **Always learning something new!** 🌱: Staying curious about emerging technologies and continuously broadening my skill set.
 
-## 👨‍💻 Currently Working On:
-- 🌐 React.JS - Building dynamic front-ends using React and TypeScript.
-- 🐍 Python - Learning my way around using python and LLM's and building API's
-- ☁️ Google Cloud Platform (GCP) - Exploring cloud solutions for personal projects and leveraging GCP Services and gcloud CLI and gcloud SDK's
-- 🖥️ Computer Architecture - Engaging in personal work to deepen understanding of systems level programming and hardware.
-- 🚀 Always learning something new! 🚀
+---
 
-## Tech Stack
+## 📚 College Coursework (2022 UG Computer Science Catalog)
 
-**Front-End:**
+- **Database Systems** 🗄️  
+  Delves into database design, implementation, and management—covering data modeling, the relational model, SQL, and transaction processing.
 
+- **User Interfaces** 💻  
+  Explores principles and practices for designing and developing user interfaces, emphasizing human-computer interaction and usability testing.
+
+- **Secure Software Development and Analysis** 🔒  
+  Emphasizes secure coding practices, threat modeling, and rigorous testing to identify and mitigate vulnerabilities in software systems.
+
+- **Math Foundations of Computer Science** 🧮  
+  Introduces core discrete math topics (logic, sets, combinatorics, graph theory) essential for problem-solving and theoretical grounding in computing.
+
+## 🤖 AI Tools
+- **LangChain**: A streamlined framework for building sophisticated applications powered by large language models—offering advanced prompting and seamless LLM integrations.
+- **Langflow**: A visual interface centered on LangChain’s features, enabling drag-and-drop design of LLM-driven workflows for rapid prototyping.
+
+# Tech Stack
+
+## Front-End
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React.JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind.css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-**Back-End:**
-
+## Back-End
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![uv](https://img.shields.io/badge/uv-0A97F5?style=for-the-badge&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+## Data & Databases
+![MS_SQL_Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-0C6190?style=for-the-badge&logoColor=white)
 
-**Package Managers:**
-
+## Tools & DevOps
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Pip](https://img.shields.io/badge/pip-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
+![pip](https://img.shields.io/badge/pip-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Operating Systems:**
+## Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-0A97F5?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
-![Windows11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
-
-**Cloud Computing:**
-
+## Cloud Computing
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white)
 
-**Design Software:**
-
+## Design Software
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
-**Databases:**
-
-![SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-**Testing:**
-
+## Testing
 ![pytest](https://img.shields.io/badge/pytest-0A97F5?style=for-the-badge&logo=pytest&logoColor=white)
-
