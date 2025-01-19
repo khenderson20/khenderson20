@@ -1,8 +1,3 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lsaGRhZ3JyYWhoeDA3ajRxYW1mbzN6cHJqcGh2YXh0OGs0ZG44byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zLs0Hi96kWSPu9YoJ7/giphy.gif" width="200"/>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejdmeG9mMXdnMXVtbWxqemFhODlkOHdtYjA1eDZuNG1udG1lbzVqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mCsgrG3wY49OtncVFr/giphy.gif" width="200"/>
-</div>
-
 <h1 align="center">
   Hi there! I'm Kevin 👋
 </h1>
