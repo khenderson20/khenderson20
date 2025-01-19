@@ -8,7 +8,7 @@
 </h1>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=16&letterSpacing=0.2rem&pause=1104&background=FFC0C000&center=true&vCenter=true&multiline=true&repeat=false&width=551&height=100&lines=print(let's+build+something+together!);I+love+anything+Star+Wars!;I+also+love+music+and+modular+synthesizers!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=16&letterSpacing=0.2rem&background=FFC0C000&center=true&vCenter=true&multiline=true&repeat=false&width=551&height=100&lines=print(let's+build+something+together!);I+love+anything+Star+Wars!;I+also+love+music+and+modular+synthesizers!" alt="Typing SVG" /></a>
 </div>
 
 <h2 align="left">
@@ -19,25 +19,12 @@ I’m a front-end developer who thrives on crafting engaging, user-focused exper
 
 ## 👨‍💻 Currently Working On
 - **React & TypeScript** ⚛️: Creating dynamic front-end applications with an emphasis on scalable, maintainable code and intuitive user experiences.
-- **Python & LLMs** 🤖: Building APIs and delving into large language models for natural language processing and automation.
-- **Google Cloud Platform** ☁️: Experimenting with GCP services and the gcloud CLI to refine cloud deployments and optimize workflow efficiency.
+- **Python & LLMs** 🤖: Delving into large language models for natural language processing and automation.
+- **Open-Source Contributions** 🌎: Learning to engage in projects by filing GitHub issues and preparing pull requests.
+- **Professional Perseverance** 🏅: Approaching challenges with unwavering dedication, consistently learning from setbacks, and driving solutions forward.
 - **Always learning something new!** 🌱: Staying curious about emerging technologies and continuously broadening my skill set.
 
 ---
-
-## 📚 College Coursework (2022 UG Computer Science Catalog)
-
-- **Database Systems** 🗄️  
-  Delves into database design, implementation, and management—covering data modeling, the relational model, SQL, and transaction processing.
-
-- **User Interfaces** 💻  
-  Explores principles and practices for designing and developing user interfaces, emphasizing human-computer interaction and usability testing.
-
-- **Secure Software Development and Analysis** 🔒  
-  Emphasizes secure coding practices, threat modeling, and rigorous testing to identify and mitigate vulnerabilities in software systems.
-
-- **Math Foundations of Computer Science** 🧮  
-  Introduces core discrete math topics (logic, sets, combinatorics, graph theory) essential for problem-solving and theoretical grounding in computing.
 
 ## 🤖 AI Tools
 - **LangChain**: A streamlined framework for building sophisticated applications powered by large language models—offering advanced prompting and seamless LLM integrations.
