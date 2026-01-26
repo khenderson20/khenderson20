@@ -27,31 +27,6 @@
 
 ---
 
-### 💼 Professional Snapshot
-
-* **IBM (Front-End Software Engineer Intern):** Focused on UI quality and cloud compliance dashboards for the Security and Compliance Center. Improved accessibility and performance across React views.
-* **UTSA (Undergraduate Research Assistant):** Developing React/Python applications for research data collection and implementing API standardization with Pydantic.
-* **Instructus Media (Web Developer):** Rebuilt legacy online training systems from Flash to modern HTML5/Vue.js for the Department of Veterans Affairs.
-
----
-
-### 🛠️ Featured Projects
-
-<table border="0">
-  <tr>
-    <td width="50%">
-      <h4>🔊 <a href="https://github.com/khenderson20/sonic-forge-dsp">sonic-forge-dsp</a></h4>
-      <p>High-performance, real-time C++ library for modular synthesis and low-latency audio.</p>
-    </td>
-    <td width="50%">
-      <h4>⚙️ <a href="https://github.com/khenderson20/cpp_template">cpp_template</a></h4>
-      <p>Modern C++ boilerplate emphasizing modular architecture and automated testing.</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🎹 Beyond the Code
 
 * **Modular Synthesis:** Creating generative soundscapes and experimental audio patches.
