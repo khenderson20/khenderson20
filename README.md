@@ -19,7 +19,7 @@
 - 📐 Deep into computer architecture, digital logic, and low-level systems programming — I like understanding software down to the instruction cycle
 - 🖥️ Daily driver: Fedora 44 with KDE Plasma, CLion as my IDE of choice
 - 🎹 Synth enthusiast — JUCE and VCV Rack show up in my toolbox for a reason
-- 🌱 Currently studying Calculus 2 and software architecture
+- 🌱 Fresh Graduate from my local Computer Science program at University of Texas at San Antonio
 - 💬 *"Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."*
 
 ---
