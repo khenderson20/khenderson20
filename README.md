@@ -14,7 +14,7 @@
 
 ### 🛰️ About Me
 
-- 🔭 Currently building **[clearCore](https://github.com/khenderson20/clearCore)** — a transparent, educational **MIPS CPU emulator** with a 5-stage pipeline, hazard detection, data forwarding, and a hand-rolled terminal UI datapath visualizer built on **FTXUI**
+- 🔭 Currently building **[clearCore](https://github.com/khenderson20/clearCore)** — a transparent, educational **MIPS CPU simulator** with a 5-stage pipeline, hazard detection, data forwarding, and a hand-rolled terminal UI datapath visualizer built on **FTXUI**
 - 🎛️ Also working on **[sonic-forge-dsp](https://github.com/khenderson20/sonic-forge-dsp)** — a real-time C++ DSP library for modular synthesis and low-latency audio
 - 📐 Deep into computer architecture, digital logic, and low-level systems programming — I like understanding software down to the instruction cycle
 - 🖥️ Daily driver: Fedora 44 with KDE Plasma, CLion as my IDE of choice
