@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kevin+Henderson;Systems+Programmer+%7C+Synth+Enthusiast;Building+CPUs+in+the+terminal;C%2B%2B20+%7C+MIPS+%7C+DSP+%7C+FTXUI" alt="Typing SVG" />
-
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=googledomains&logoColor=white)](https://kevinhenderson.dev/)
