@@ -12,11 +12,10 @@
 
 ### 🛰️ About Me
 
-- 🔭 Currently building **[clearCore](https://github.com/khenderson20/clearCore)** — a transparent, educational **MIPS CPU simulator** with a 5-stage pipeline, hazard detection, data forwarding, and a hand-rolled terminal UI datapath visualizer built on **FTXUI**
-- 🎛️ Also working on **[sonic-forge-dsp](https://github.com/khenderson20/sonic-forge-dsp)** — a real-time C++ DSP library for modular synthesis and low-latency audio
-- 📐 Deep into computer architecture, digital logic, and low-level systems programming — I like understanding software down to the instruction cycle
+- 🔭 Currently building **[clearCore](https://github.com/khenderson20/clearCore)** a transparent, educational **MIPS CPU simulator** with a 5-stage pipeline, hazard detection, data forwarding, and a hand-rolled terminal UI datapath visualizer built on **FTXUI**
+- 📐 Deep into computer architecture, digital logic, and low-level systems programming
 - 🖥️ Daily driver: Fedora 44 with KDE Plasma, CLion as my IDE of choice
-- 🎹 Synth enthusiast — JUCE and VCV Rack show up in my toolbox for a reason
+- 🎹 Synth enthusiast, JUCE and VCV Rack show up in my toolbox for a reason
 - 🌱 Fresh Graduate from my local Computer Science program at University of Texas at San Antonio
 - 💬 *"Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."*
 
@@ -47,10 +46,6 @@
 [![dotfiles](https://github-stats-extended.vercel.app/api/pin/?username=khenderson20&repo=dotfiles&theme=tokyonight&hide_border=true)](https://github.com/khenderson20/dotfiles)
 
 </div>
-
-**clearCore** — A transparent, educational MIPS CPU emulator with a high-performance terminal UI. 5-stage pipeline, hazard detection, data forwarding, pluggable processor models, and a Patterson & Hennessy–style animated datapath diagram rendered directly on FTXUI's canvas. Built in C++20.
-
-**sonic-forge-dsp** — A high-performance, real-time C++ digital signal processing library for modular synthesis and low-latency audio applications.
 
 ---
 
